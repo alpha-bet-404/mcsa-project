@@ -88,5 +88,5 @@ To verify the active security policies, follow these steps in the environment:
 5. **Expected Result:** The system should explicitly block the action with the message: *“This operation has been cancelled due to restrictions in effect on this computer.”*
 
 ---
-**Developed by:** ALPHA-BET | CTF Player & Security Enthusiast  
+**Developed by:** ALPHA-BET 
 **Date:** July 2026
