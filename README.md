@@ -2,10 +2,14 @@
   <h1>🛡️ ALPHA CORP - Active Directory Security Project</h1>
   <p><i>Securing enterprise environments through robust Windows Server and Group Policy implementations.</i></p>
 
-  <a href="https://github.com/alpha-bet-404/mcsa-project/raw/refs/heads/main/Project-Mcsa.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
-  </a>
-  <a href="YOUR_PDF_LINK_HERE" download>
+  <video width="100%" controls style="max-width: 800px; border-radius: 8px; margin-bottom: 20px;">
+    <source src="https://github.com/alpha-bet-404/mcsa-project/blob/main/Project-Mcsa.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <br>
+
+  <a href="https://github.com/alpha-bet-404/mcsa-project/blob/main/Alpha%20Corp%20AD%20%26%20GPO%20Overview.pdf" download>
     <img src="https://img.shields.io/badge/📥_Topology_Diagram-0052CC?style=for-the-badge&logo=pdf&logoColor=white" alt="Download PDF"/>
   </a>
 </div>
@@ -88,5 +92,5 @@ To verify the active security policies, follow these steps in the environment:
 5. **Expected Result:** The system should explicitly block the action with the message: *“This operation has been cancelled due to restrictions in effect on this computer.”*
 
 ---
-**Developed by:** ALPHA-BET | CTF Player & Security Enthusiast  
+**Developed by:** ALPHA-BET  
 **Date:** July 2026
