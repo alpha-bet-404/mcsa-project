@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
   <a href="https://github.com/alpha-bet-404/mcsa-project/blob/main/Alpha%20Corp%20AD%20%26%20GPO%20Overview.pdf" download>
-    <img src="https://img.shields.io/badge/📥_Topology_Diagram-0052CC?style=for-the-badge&logo=pdf&logoColor=white" alt="Download PDF"/>
+    <img src="https://img.shields.io/badge/📥_Topology_PDF-0052CC?style=for-the-badge&logo=pdf&logoColor=white" alt="Download PDF"/>
   </a>
 </div>
 
