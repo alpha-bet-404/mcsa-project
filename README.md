@@ -20,7 +20,7 @@ This project demonstrates the implementation of a secure Active Directory enviro
 | :--- | :--- |
 | **Company Name** | Alpha Corp |
 | **Domain Name** | `alpha.local` |
-| **Server OS** | Windows Server 2019 / 2022 |
+| **Server OS** | Windows Server 2016 |
 | **Admin Password** | `alpha@0` |
 | **DSRM Password** | `alpha@0123` |
 
