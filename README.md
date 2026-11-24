@@ -2,7 +2,7 @@
   <h1>🛡️ ALPHA CORP - Active Directory Hardening & Attack Surface Reduction</h1>
   <p><i>Securing Enterprise Identity Architecture & Mitigating Privilege Escalation via Windows Server GPOs.</i></p>
 
-  <a href="https://mega.nz/embed/1UwGmZwB#o9NOAJR-PjWBHQpfbgFWnrcmISyntcLuLs0iVaXnS18" target="_blank">
+  <a href="https://mega.nz/file/scxkQbST#ktil5rScfhJIze3dMp9E_-1pl1CZStDlO2S0pONodAQ" target="_blank">
     <img src="https://img.shields.io/badge/▶️_Watch_POC_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
   <a href="https://github.com/alpha-bet-404/mcsa-project/blob/main/Alpha%20Corp%20AD%20%26%20GPO%20Overview.pdf" download>
